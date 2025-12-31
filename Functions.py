@@ -5,3 +5,4 @@ print(x.capitalize())
 print(x.replace("nish","x"))
 
 print(x.split(" "))
+print(x.lower())
